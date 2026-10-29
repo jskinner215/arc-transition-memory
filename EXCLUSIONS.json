@@ -1,0 +1,920 @@
+{
+  "state": "excluded from proposed new first-party grant; no grant applied",
+  "third_party_wheels": [
+    {
+      "wheel": "annotated_types-0.7.0-py3-none-any.whl",
+      "sha256": "1f02e8b43a8fbbc3f3e0d4f0f4bfc8131bcb4eebe8849b8e5c773f3a1c582a53",
+      "name": "annotated-types",
+      "version": "0.7.0",
+      "license_expression": "",
+      "license_label_excerpt": null,
+      "license_classifiers": [
+        "License :: OSI Approved :: MIT License"
+      ],
+      "license_files_preserved_in_wheel": [
+        "annotated_types-0.7.0.dist-info/licenses/LICENSE"
+      ],
+      "classification": "third party; retain upstream license and notices; excluded from proposed MIT-0 grant",
+      "actual_wheel_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true
+    },
+    {
+      "wheel": "arc_agi-0.9.8-py3-none-any.whl",
+      "sha256": "aeca1663db342e91cb8fc96cf0c83e2fa39db1640bc1298e80a8d522e3af70f3",
+      "name": "arc-agi",
+      "version": "0.9.8",
+      "license_expression": "",
+      "license_label_excerpt": "MIT License\n         \n         Copyright (c) 2026 ARC Prize 2026 ARC Prize Foundation\n         \n         Permission is hereby granted, free of charge, to any person obtaining a copy\n         of this s",
+      "license_classifiers": [],
+      "license_files_preserved_in_wheel": [],
+      "classification": "third party; retain upstream license and notices; excluded from proposed MIT-0 grant",
+      "complete_MIT_text_retained_in_METADATA": true,
+      "notice_storage_note": "No separate license path; complete upstream MIT grant and copyright remain in the unchanged wheel METADATA.",
+      "actual_wheel_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true
+    },
+    {
+      "wheel": "arcengine-0.9.3-py3-none-any.whl",
+      "sha256": "5f9739d6d0055780a4581fd6fe09066bb08775c4c8212c9adcca2eb008aef59c",
+      "name": "arcengine",
+      "version": "0.9.3",
+      "license_expression": "",
+      "license_label_excerpt": "MIT License\n         \n         Copyright (c) 2026 ARC Prize Foundation\n         \n         Permission is hereby granted, free of charge, to any person obtaining a copy\n         of this software and ass",
+      "license_classifiers": [],
+      "license_files_preserved_in_wheel": [],
+      "classification": "third party; retain upstream license and notices; excluded from proposed MIT-0 grant",
+      "complete_MIT_text_retained_in_METADATA": true,
+      "notice_storage_note": "No separate license path; complete upstream MIT grant and copyright remain in the unchanged wheel METADATA.",
+      "actual_wheel_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true
+    },
+    {
+      "wheel": "blinker-1.9.0-py3-none-any.whl",
+      "sha256": "ba0efaa9080b619ff2f3459d1d500c57bddea4a6b424b60a91141db6fd2f08bc",
+      "name": "blinker",
+      "version": "1.9.0",
+      "license_expression": "",
+      "license_label_excerpt": null,
+      "license_classifiers": [
+        "License :: OSI Approved :: MIT License"
+      ],
+      "license_files_preserved_in_wheel": [
+        "blinker-1.9.0.dist-info/LICENSE.txt"
+      ],
+      "classification": "third party; retain upstream license and notices; excluded from proposed MIT-0 grant",
+      "actual_wheel_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true
+    },
+    {
+      "wheel": "certifi-2026.2.25-py3-none-any.whl",
+      "sha256": "027692e4402ad994f1c42e52a4997a9763c646b73e4096e4d5d6db8af1d6f0fa",
+      "name": "certifi",
+      "version": "2026.2.25",
+      "license_expression": "",
+      "license_label_excerpt": "MPL-2.0",
+      "license_classifiers": [
+        "License :: OSI Approved :: Mozilla Public License 2.0 (MPL 2.0)"
+      ],
+      "license_files_preserved_in_wheel": [
+        "certifi-2026.2.25.dist-info/licenses/LICENSE"
+      ],
+      "classification": "third party; retain upstream license and notices; excluded from proposed MIT-0 grant",
+      "actual_wheel_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true
+    },
+    {
+      "wheel": "charset_normalizer-3.4.7-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl",
+      "sha256": "5649fd1c7bade02f320a462fdefd0b4bd3ce036065836d4f42e0de958038e116",
+      "name": "charset-normalizer",
+      "version": "3.4.7",
+      "license_expression": "",
+      "license_label_excerpt": "MIT",
+      "license_classifiers": [],
+      "license_files_preserved_in_wheel": [
+        "charset_normalizer-3.4.7.dist-info/licenses/",
+        "charset_normalizer-3.4.7.dist-info/licenses/LICENSE"
+      ],
+      "classification": "third party; retain upstream license and notices; excluded from proposed MIT-0 grant",
+      "actual_wheel_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true
+    },
+    {
+      "wheel": "click-8.3.2-py3-none-any.whl",
+      "sha256": "1924d2c27c5653561cd2cae4548d1406039cb79b858b747cfea24924bbc1616d",
+      "name": "click",
+      "version": "8.3.2",
+      "license_expression": "BSD-3-Clause",
+      "license_label_excerpt": null,
+      "license_classifiers": [],
+      "license_files_preserved_in_wheel": [
+        "click-8.3.2.dist-info/licenses/LICENSE.txt"
+      ],
+      "classification": "third party; retain upstream license and notices; excluded from proposed MIT-0 grant",
+      "actual_wheel_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true
+    },
+    {
+      "wheel": "contourpy-1.3.3-cp312-cp312-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl",
+      "sha256": "4d00e655fcef08aba35ec9610536bfe90267d7ab5ba944f7032549c55a146da1",
+      "name": "contourpy",
+      "version": "1.3.3",
+      "license_expression": "",
+      "license_label_excerpt": "BSD 3-Clause License\n         \n         Copyright (c) 2021-2025, ContourPy Developers.\n         All rights reserved.\n         \n         Redistribution and use in source and binary forms, with or witho",
+      "license_classifiers": [
+        "License :: OSI Approved :: BSD License"
+      ],
+      "license_files_preserved_in_wheel": [
+        "contourpy-1.3.3.dist-info/LICENSE"
+      ],
+      "classification": "third party; retain upstream license and notices; excluded from proposed MIT-0 grant",
+      "actual_wheel_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true
+    },
+    {
+      "wheel": "cycler-0.12.1-py3-none-any.whl",
+      "sha256": "85cef7cff222d8644161529808465972e51340599459b8ac3ccbac5a854e0d30",
+      "name": "cycler",
+      "version": "0.12.1",
+      "license_expression": "",
+      "license_label_excerpt": "Copyright (c) 2015, matplotlib project\n        All rights reserved.\n        \n        Redistribution and use in source and binary forms, with or without\n        modification, are permitted provided tha",
+      "license_classifiers": [
+        "License :: OSI Approved :: BSD License"
+      ],
+      "license_files_preserved_in_wheel": [
+        "cycler-0.12.1.dist-info/LICENSE"
+      ],
+      "classification": "third party; retain upstream license and notices; excluded from proposed MIT-0 grant",
+      "actual_wheel_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true
+    },
+    {
+      "wheel": "flask-3.1.3-py3-none-any.whl",
+      "sha256": "f4bcbefc124291925f1a26446da31a5178f9483862233b23c0c96a20701f670c",
+      "name": "Flask",
+      "version": "3.1.3",
+      "license_expression": "BSD-3-Clause",
+      "license_label_excerpt": null,
+      "license_classifiers": [],
+      "license_files_preserved_in_wheel": [
+        "flask-3.1.3.dist-info/licenses/LICENSE.txt"
+      ],
+      "classification": "third party; retain upstream license and notices; excluded from proposed MIT-0 grant",
+      "actual_wheel_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true
+    },
+    {
+      "wheel": "fonttools-4.62.1-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.whl",
+      "sha256": "149f7d84afca659d1a97e39a4778794a2f83bf344c5ee5134e09995086cc2392",
+      "name": "fonttools",
+      "version": "4.62.1",
+      "license_expression": "",
+      "license_label_excerpt": "MIT",
+      "license_classifiers": [],
+      "license_files_preserved_in_wheel": [
+        "fonttools-4.62.1.dist-info/licenses/",
+        "fonttools-4.62.1.dist-info/licenses/LICENSE",
+        "fonttools-4.62.1.dist-info/licenses/LICENSE.external"
+      ],
+      "classification": "third party; retain upstream license and notices; excluded from proposed MIT-0 grant",
+      "actual_wheel_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true
+    },
+    {
+      "wheel": "idna-3.11-py3-none-any.whl",
+      "sha256": "771a87f49d9defaf64091e6e6fe9c18d4833f140bd19464795bc32d966ca37ea",
+      "name": "idna",
+      "version": "3.11",
+      "license_expression": "BSD-3-Clause",
+      "license_label_excerpt": null,
+      "license_classifiers": [],
+      "license_files_preserved_in_wheel": [
+        "idna-3.11.dist-info/licenses/LICENSE.md"
+      ],
+      "classification": "third party; retain upstream license and notices; excluded from proposed MIT-0 grant",
+      "actual_wheel_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true
+    },
+    {
+      "wheel": "itsdangerous-2.2.0-py3-none-any.whl",
+      "sha256": "c6242fc49e35958c8b15141343aa660db5fc54d4f13a1db01a3f5891b98700ef",
+      "name": "itsdangerous",
+      "version": "2.2.0",
+      "license_expression": "",
+      "license_label_excerpt": null,
+      "license_classifiers": [
+        "License :: OSI Approved :: BSD License"
+      ],
+      "license_files_preserved_in_wheel": [
+        "itsdangerous-2.2.0.dist-info/LICENSE.txt"
+      ],
+      "classification": "third party; retain upstream license and notices; excluded from proposed MIT-0 grant",
+      "actual_wheel_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true
+    },
+    {
+      "wheel": "jinja2-3.1.6-py3-none-any.whl",
+      "sha256": "85ece4451f492d0c13c5dd7c13a64681a86afae63a5f347908daf103ce6d2f67",
+      "name": "Jinja2",
+      "version": "3.1.6",
+      "license_expression": "",
+      "license_label_excerpt": null,
+      "license_classifiers": [
+        "License :: OSI Approved :: BSD License"
+      ],
+      "license_files_preserved_in_wheel": [
+        "jinja2-3.1.6.dist-info/licenses/LICENSE.txt"
+      ],
+      "classification": "third party; retain upstream license and notices; excluded from proposed MIT-0 grant",
+      "actual_wheel_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true
+    },
+    {
+      "wheel": "kiwisolver-1.5.0-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.whl",
+      "sha256": "bb5136fb5352d3f422df33f0c879a1b0c204004324150cc3b5e3c4f310c9049f",
+      "name": "kiwisolver",
+      "version": "1.5.0",
+      "license_expression": "",
+      "license_label_excerpt": "=========================\n         The Kiwi licensing terms\n        =========================\n        Kiwi is licensed under the terms of the Modified BSD License (also known as\n        New or Revised",
+      "license_classifiers": [
+        "License :: OSI Approved :: BSD License"
+      ],
+      "license_files_preserved_in_wheel": [
+        "kiwisolver-1.5.0.dist-info/licenses/",
+        "kiwisolver-1.5.0.dist-info/licenses/LICENSE"
+      ],
+      "classification": "third party; retain upstream license and notices; excluded from proposed MIT-0 grant",
+      "actual_wheel_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true
+    },
+    {
+      "wheel": "markupsafe-3.0.3-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl",
+      "sha256": "d6dd0be5b5b189d31db7cda48b91d7e0a9795f31430b7f271219ab30f1d3ac9d",
+      "name": "MarkupSafe",
+      "version": "3.0.3",
+      "license_expression": "BSD-3-Clause",
+      "license_label_excerpt": null,
+      "license_classifiers": [],
+      "license_files_preserved_in_wheel": [
+        "markupsafe-3.0.3.dist-info/licenses/",
+        "markupsafe-3.0.3.dist-info/licenses/LICENSE.txt"
+      ],
+      "classification": "third party; retain upstream license and notices; excluded from proposed MIT-0 grant",
+      "actual_wheel_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true
+    },
+    {
+      "wheel": "matplotlib-3.10.8-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.whl",
+      "sha256": "3ab4aabc72de4ff77b3ec33a6d78a68227bf1123465887f9905ba79184a1cc04",
+      "name": "matplotlib",
+      "version": "3.10.8",
+      "license_expression": "",
+      "license_label_excerpt": "License agreement for matplotlib versions 1.3.0 and later\n         =========================================================\n         \n         1. This LICENSE AGREEMENT is between the Matplotlib Deve",
+      "license_classifiers": [
+        "License :: OSI Approved :: Python Software Foundation License"
+      ],
+      "license_files_preserved_in_wheel": [
+        "matplotlib-3.10.8.dist-info/LICENSE"
+      ],
+      "classification": "third party; retain upstream license and notices; excluded from proposed MIT-0 grant",
+      "actual_wheel_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true
+    },
+    {
+      "wheel": "numpy-2.4.4-cp312-cp312-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl",
+      "sha256": "81f4a14bee47aec54f883e0cad2d73986640c1590eb9bfaaba7ad17394481e6e",
+      "name": "numpy",
+      "version": "2.4.4",
+      "license_expression": "BSD-3-Clause AND 0BSD AND MIT AND Zlib AND CC0-1.0",
+      "license_label_excerpt": null,
+      "license_classifiers": [],
+      "license_files_preserved_in_wheel": [
+        "numpy-2.4.4.dist-info/licenses/",
+        "numpy-2.4.4.dist-info/licenses/LICENSE.txt",
+        "numpy-2.4.4.dist-info/licenses/numpy/",
+        "numpy-2.4.4.dist-info/licenses/numpy/_core/",
+        "numpy-2.4.4.dist-info/licenses/numpy/_core/include/",
+        "numpy-2.4.4.dist-info/licenses/numpy/_core/include/numpy/",
+        "numpy-2.4.4.dist-info/licenses/numpy/_core/include/numpy/libdivide/",
+        "numpy-2.4.4.dist-info/licenses/numpy/_core/include/numpy/libdivide/LICENSE.txt",
+        "numpy-2.4.4.dist-info/licenses/numpy/_core/src/",
+        "numpy-2.4.4.dist-info/licenses/numpy/_core/src/common/",
+        "numpy-2.4.4.dist-info/licenses/numpy/_core/src/common/pythoncapi-compat/",
+        "numpy-2.4.4.dist-info/licenses/numpy/_core/src/common/pythoncapi-compat/COPYING",
+        "numpy-2.4.4.dist-info/licenses/numpy/_core/src/highway/",
+        "numpy-2.4.4.dist-info/licenses/numpy/_core/src/highway/LICENSE",
+        "numpy-2.4.4.dist-info/licenses/numpy/_core/src/multiarray/",
+        "numpy-2.4.4.dist-info/licenses/numpy/_core/src/multiarray/dragon4_LICENSE.txt",
+        "numpy-2.4.4.dist-info/licenses/numpy/_core/src/npysort/",
+        "numpy-2.4.4.dist-info/licenses/numpy/_core/src/npysort/x86-simd-sort/",
+        "numpy-2.4.4.dist-info/licenses/numpy/_core/src/npysort/x86-simd-sort/LICENSE.md",
+        "numpy-2.4.4.dist-info/licenses/numpy/_core/src/umath/",
+        "numpy-2.4.4.dist-info/licenses/numpy/_core/src/umath/svml/",
+        "numpy-2.4.4.dist-info/licenses/numpy/_core/src/umath/svml/LICENSE",
+        "numpy-2.4.4.dist-info/licenses/numpy/fft/",
+        "numpy-2.4.4.dist-info/licenses/numpy/fft/pocketfft/",
+        "numpy-2.4.4.dist-info/licenses/numpy/fft/pocketfft/LICENSE.md",
+        "numpy-2.4.4.dist-info/licenses/numpy/linalg/",
+        "numpy-2.4.4.dist-info/licenses/numpy/linalg/lapack_lite/",
+        "numpy-2.4.4.dist-info/licenses/numpy/linalg/lapack_lite/LICENSE.txt",
+        "numpy-2.4.4.dist-info/licenses/numpy/ma/",
+        "numpy-2.4.4.dist-info/licenses/numpy/ma/LICENSE",
+        "numpy-2.4.4.dist-info/licenses/numpy/random/",
+        "numpy-2.4.4.dist-info/licenses/numpy/random/LICENSE.md",
+        "numpy-2.4.4.dist-info/licenses/numpy/random/src/",
+        "numpy-2.4.4.dist-info/licenses/numpy/random/src/distributions/",
+        "numpy-2.4.4.dist-info/licenses/numpy/random/src/distributions/LICENSE.md",
+        "numpy-2.4.4.dist-info/licenses/numpy/random/src/mt19937/",
+        "numpy-2.4.4.dist-info/licenses/numpy/random/src/mt19937/LICENSE.md",
+        "numpy-2.4.4.dist-info/licenses/numpy/random/src/pcg64/",
+        "numpy-2.4.4.dist-info/licenses/numpy/random/src/pcg64/LICENSE.md",
+        "numpy-2.4.4.dist-info/licenses/numpy/random/src/philox/",
+        "numpy-2.4.4.dist-info/licenses/numpy/random/src/philox/LICENSE.md",
+        "numpy-2.4.4.dist-info/licenses/numpy/random/src/sfc64/",
+        "numpy-2.4.4.dist-info/licenses/numpy/random/src/sfc64/LICENSE.md",
+        "numpy-2.4.4.dist-info/licenses/numpy/random/src/splitmix64/",
+        "numpy-2.4.4.dist-info/licenses/numpy/random/src/splitmix64/LICENSE.md"
+      ],
+      "classification": "third party; retain upstream license and notices; excluded from proposed MIT-0 grant",
+      "actual_wheel_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true
+    },
+    {
+      "wheel": "packaging-26.1-py3-none-any.whl",
+      "sha256": "5d9c0669c6285e491e0ced2eee587eaf67b670d94a19e94e3984a481aba6802f",
+      "name": "packaging",
+      "version": "26.1",
+      "license_expression": "Apache-2.0 OR BSD-2-Clause",
+      "license_label_excerpt": null,
+      "license_classifiers": [],
+      "license_files_preserved_in_wheel": [
+        "packaging-26.1.dist-info/licenses/LICENSE",
+        "packaging-26.1.dist-info/licenses/LICENSE.APACHE",
+        "packaging-26.1.dist-info/licenses/LICENSE.BSD"
+      ],
+      "classification": "third party; retain upstream license and notices; excluded from proposed MIT-0 grant",
+      "actual_wheel_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true
+    },
+    {
+      "wheel": "pillow-12.2.0-cp312-cp312-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl",
+      "sha256": "62f5409336adb0663b7caa0da5c7d9e7bdbaae9ce761d34669420c2a801b2780",
+      "name": "pillow",
+      "version": "12.2.0",
+      "license_expression": "MIT-CMU",
+      "license_label_excerpt": null,
+      "license_classifiers": [],
+      "license_files_preserved_in_wheel": [
+        "pillow-12.2.0.dist-info/licenses/",
+        "pillow-12.2.0.dist-info/licenses/LICENSE"
+      ],
+      "classification": "third party; retain upstream license and notices; excluded from proposed MIT-0 grant",
+      "actual_wheel_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true
+    },
+    {
+      "wheel": "pydantic-2.13.2-py3-none-any.whl",
+      "sha256": "a525087f4c03d7e7456a3de89b64cd693d2229933bb1068b9af6befd5563694e",
+      "name": "pydantic",
+      "version": "2.13.2",
+      "license_expression": "MIT",
+      "license_label_excerpt": null,
+      "license_classifiers": [],
+      "license_files_preserved_in_wheel": [
+        "pydantic-2.13.2.dist-info/licenses/LICENSE"
+      ],
+      "classification": "third party; retain upstream license and notices; excluded from proposed MIT-0 grant",
+      "actual_wheel_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true
+    },
+    {
+      "wheel": "pydantic_core-2.46.2-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+      "sha256": "48649cf2d8c358d79586e9fb2f8235902fcaa2d969ec1c5301f2d1873b2f8321",
+      "name": "pydantic_core",
+      "version": "2.46.2",
+      "license_expression": "MIT",
+      "license_label_excerpt": null,
+      "license_classifiers": [],
+      "license_files_preserved_in_wheel": [
+        "pydantic_core-2.46.2.dist-info/licenses/LICENSE"
+      ],
+      "classification": "third party; retain upstream license and notices; excluded from proposed MIT-0 grant",
+      "actual_wheel_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true
+    },
+    {
+      "wheel": "pyparsing-3.3.2-py3-none-any.whl",
+      "sha256": "850ba148bd908d7e2411587e247a1e4f0327839c40e2e5e6d05a007ecc69911d",
+      "name": "pyparsing",
+      "version": "3.3.2",
+      "license_expression": "MIT",
+      "license_label_excerpt": null,
+      "license_classifiers": [],
+      "license_files_preserved_in_wheel": [
+        "pyparsing-3.3.2.dist-info/licenses/LICENSE"
+      ],
+      "classification": "third party; retain upstream license and notices; excluded from proposed MIT-0 grant",
+      "actual_wheel_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true
+    },
+    {
+      "wheel": "python_dateutil-2.9.0.post0-py2.py3-none-any.whl",
+      "sha256": "a8b2bc7bffae282281c8140a97d3aa9c14da0b136dfe83f850eea9a5f7470427",
+      "name": "python-dateutil",
+      "version": "2.9.0.post0",
+      "license_expression": "",
+      "license_label_excerpt": "Dual License",
+      "license_classifiers": [
+        "License :: OSI Approved :: BSD License",
+        "License :: OSI Approved :: Apache Software License"
+      ],
+      "license_files_preserved_in_wheel": [
+        "python_dateutil-2.9.0.post0.dist-info/LICENSE"
+      ],
+      "classification": "third party; retain upstream license and notices; excluded from proposed MIT-0 grant",
+      "actual_wheel_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true
+    },
+    {
+      "wheel": "python_dotenv-1.2.2-py3-none-any.whl",
+      "sha256": "1d8214789a24de455a8b8bd8ae6fe3c6b69a5e3d64aa8a8e5d68e694bbcb285a",
+      "name": "python-dotenv",
+      "version": "1.2.2",
+      "license_expression": "",
+      "license_label_excerpt": "BSD-3-Clause",
+      "license_classifiers": [],
+      "license_files_preserved_in_wheel": [
+        "python_dotenv-1.2.2.dist-info/licenses/LICENSE"
+      ],
+      "classification": "third party; retain upstream license and notices; excluded from proposed MIT-0 grant",
+      "actual_wheel_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true
+    },
+    {
+      "wheel": "requests-2.33.1-py3-none-any.whl",
+      "sha256": "4e6d1ef462f3626a1f0a0a9c42dd93c63bad33f9f1c1937509b8c5c8718ab56a",
+      "name": "requests",
+      "version": "2.33.1",
+      "license_expression": "",
+      "license_label_excerpt": "Apache-2.0",
+      "license_classifiers": [
+        "License :: OSI Approved :: Apache Software License"
+      ],
+      "license_files_preserved_in_wheel": [
+        "requests-2.33.1.dist-info/licenses/LICENSE",
+        "requests-2.33.1.dist-info/licenses/NOTICE"
+      ],
+      "classification": "third party; retain upstream license and notices; excluded from proposed MIT-0 grant",
+      "actual_wheel_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true
+    },
+    {
+      "wheel": "six-1.17.0-py2.py3-none-any.whl",
+      "sha256": "4721f391ed90541fddacab5acf947aa0d3dc7d27b2e1e8eda2be8970586c3274",
+      "name": "six",
+      "version": "1.17.0",
+      "license_expression": "",
+      "license_label_excerpt": "MIT",
+      "license_classifiers": [
+        "License :: OSI Approved :: MIT License"
+      ],
+      "license_files_preserved_in_wheel": [
+        "six-1.17.0.dist-info/LICENSE"
+      ],
+      "classification": "third party; retain upstream license and notices; excluded from proposed MIT-0 grant",
+      "actual_wheel_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true
+    },
+    {
+      "wheel": "typing_extensions-4.15.0-py3-none-any.whl",
+      "sha256": "f0fa19c6845758ab08074a0cfa8b7aecb71c999ca73d62883bc25cc018c4e548",
+      "name": "typing_extensions",
+      "version": "4.15.0",
+      "license_expression": "PSF-2.0",
+      "license_label_excerpt": null,
+      "license_classifiers": [],
+      "license_files_preserved_in_wheel": [
+        "typing_extensions-4.15.0.dist-info/licenses/LICENSE"
+      ],
+      "classification": "third party; retain upstream license and notices; excluded from proposed MIT-0 grant",
+      "actual_wheel_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true
+    },
+    {
+      "wheel": "typing_inspection-0.4.2-py3-none-any.whl",
+      "sha256": "4ed1cacbdc298c220f1bd249ed5287caa16f34d44ef4e9c3d0cbad5b521545e7",
+      "name": "typing-inspection",
+      "version": "0.4.2",
+      "license_expression": "MIT",
+      "license_label_excerpt": null,
+      "license_classifiers": [],
+      "license_files_preserved_in_wheel": [
+        "typing_inspection-0.4.2.dist-info/licenses/LICENSE"
+      ],
+      "classification": "third party; retain upstream license and notices; excluded from proposed MIT-0 grant",
+      "actual_wheel_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true
+    },
+    {
+      "wheel": "urllib3-2.6.3-py3-none-any.whl",
+      "sha256": "bf272323e553dfb2e87d9bfd225ca7b0f467b919d7bbd355436d3fd37cb0acd4",
+      "name": "urllib3",
+      "version": "2.6.3",
+      "license_expression": "MIT",
+      "license_label_excerpt": null,
+      "license_classifiers": [],
+      "license_files_preserved_in_wheel": [
+        "urllib3-2.6.3.dist-info/licenses/LICENSE.txt"
+      ],
+      "classification": "third party; retain upstream license and notices; excluded from proposed MIT-0 grant",
+      "actual_wheel_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true
+    },
+    {
+      "wheel": "werkzeug-3.1.8-py3-none-any.whl",
+      "sha256": "63a77fb8892bf28ebc3178683445222aa500e48ebad5ec77b0ad80f8726b1f50",
+      "name": "Werkzeug",
+      "version": "3.1.8",
+      "license_expression": "BSD-3-Clause",
+      "license_label_excerpt": null,
+      "license_classifiers": [],
+      "license_files_preserved_in_wheel": [
+        "werkzeug-3.1.8.dist-info/licenses/LICENSE.txt"
+      ],
+      "classification": "third party; retain upstream license and notices; excluded from proposed MIT-0 grant",
+      "actual_wheel_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true
+    }
+  ],
+  "public_game_assets": [
+    {
+      "upstream_path": "environment_files/LICENSE",
+      "sha256": "3ddf9be5c28fe27dad143a5dc76eea25222ad1dd68934a047064e56ed2fa40c5",
+      "actual_asset_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true,
+      "upstream_notice": "retain existing supplied Apache-2.0 scope; no relicensing"
+    },
+    {
+      "upstream_path": "environment_files/ar25/0c556536/ar25.py",
+      "sha256": "0c556536ad902afddb600cdb2b766ac9fda243dcd07b7f3a0a0d6277339745bf",
+      "actual_asset_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true,
+      "upstream_notice": "retain existing supplied Apache-2.0 scope; no relicensing"
+    },
+    {
+      "upstream_path": "environment_files/ar25/0c556536/metadata.json",
+      "sha256": "2c493063d34141b70207bd50d3318c586b9221a37024b2792153d4fd4671f706",
+      "actual_asset_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true,
+      "upstream_notice": "retain existing supplied Apache-2.0 scope; no relicensing"
+    },
+    {
+      "upstream_path": "environment_files/bp35/0a0ad940/bp35.py",
+      "sha256": "0a0ad94090fe6923613bee92dd48df46b2a07877bdf0be618e385a92184b7d0d",
+      "actual_asset_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true,
+      "upstream_notice": "retain existing supplied Apache-2.0 scope; no relicensing"
+    },
+    {
+      "upstream_path": "environment_files/bp35/0a0ad940/metadata.json",
+      "sha256": "0def96ba7fa7c7f6cf6228665cc6e355efe1d7e768102a8a6c7ce22f8e0da47b",
+      "actual_asset_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true,
+      "upstream_notice": "retain existing supplied Apache-2.0 scope; no relicensing"
+    },
+    {
+      "upstream_path": "environment_files/cd82/fb555c5d/cd82.py",
+      "sha256": "fb555c5ddf0a3b742188646bb28d2f57cb98cf2d3263c594032b45ec8fce2a86",
+      "actual_asset_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true,
+      "upstream_notice": "retain existing supplied Apache-2.0 scope; no relicensing"
+    },
+    {
+      "upstream_path": "environment_files/cd82/fb555c5d/metadata.json",
+      "sha256": "ccfe95990d5a9c5df2cfe134452abd3397d63ede9c22afe02584f3b2a5184c9f",
+      "actual_asset_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true,
+      "upstream_notice": "retain existing supplied Apache-2.0 scope; no relicensing"
+    },
+    {
+      "upstream_path": "environment_files/cn04/2fe56bfb/cn04.py",
+      "sha256": "2fe56bfb27680358db7d1c8b80c43e8877d6cfc629945402dc7c8967b0152603",
+      "actual_asset_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true,
+      "upstream_notice": "retain existing supplied Apache-2.0 scope; no relicensing"
+    },
+    {
+      "upstream_path": "environment_files/cn04/2fe56bfb/metadata.json",
+      "sha256": "4c50cb8b1e35290d0f99717f5450df794250b798747352d43c6c76f54d70cf82",
+      "actual_asset_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true,
+      "upstream_notice": "retain existing supplied Apache-2.0 scope; no relicensing"
+    },
+    {
+      "upstream_path": "environment_files/dc22/fdcac232/dc22.py",
+      "sha256": "fdcac2320f6d4cfeaaddfbed5c12e533962817b99f700a2936edd2c296f3d169",
+      "actual_asset_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true,
+      "upstream_notice": "retain existing supplied Apache-2.0 scope; no relicensing"
+    },
+    {
+      "upstream_path": "environment_files/dc22/fdcac232/metadata.json",
+      "sha256": "3d6c2410131409c056425ced8767a714e80a1734a5d74ce2a77970ec5ae2f4c6",
+      "actual_asset_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true,
+      "upstream_notice": "retain existing supplied Apache-2.0 scope; no relicensing"
+    },
+    {
+      "upstream_path": "environment_files/ft09/0d8bbf25/ft09.py",
+      "sha256": "0d8bbf2573e8f9837c649a1ffda2e7bde3734d26c3cb0fc4bbfd772d7f87a6bf",
+      "actual_asset_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true,
+      "upstream_notice": "retain existing supplied Apache-2.0 scope; no relicensing"
+    },
+    {
+      "upstream_path": "environment_files/ft09/0d8bbf25/metadata.json",
+      "sha256": "abfa2c74192ad7d6330f0981d3a1609e331ce29a00d9b1d14c584c02c13d326b",
+      "actual_asset_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true,
+      "upstream_notice": "retain existing supplied Apache-2.0 scope; no relicensing"
+    },
+    {
+      "upstream_path": "environment_files/g50t/5849a774/g50t.py",
+      "sha256": "5849a7740de172289b99f39680e60d7657de203a11b7361e24181e2104eebed5",
+      "actual_asset_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true,
+      "upstream_notice": "retain existing supplied Apache-2.0 scope; no relicensing"
+    },
+    {
+      "upstream_path": "environment_files/g50t/5849a774/metadata.json",
+      "sha256": "c3fb569bc681661d597fb5a6700abafb19f13503f235891ccfa96b7dec045177",
+      "actual_asset_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true,
+      "upstream_notice": "retain existing supplied Apache-2.0 scope; no relicensing"
+    },
+    {
+      "upstream_path": "environment_files/ka59/38d34dbb/ka59.py",
+      "sha256": "38d34dbbf83b9a220903d11d3e5f4cdb73230c7376576669d7d66cc157f22144",
+      "actual_asset_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true,
+      "upstream_notice": "retain existing supplied Apache-2.0 scope; no relicensing"
+    },
+    {
+      "upstream_path": "environment_files/ka59/38d34dbb/metadata.json",
+      "sha256": "fcbcc16b233a4692c88661e1f8d3e676c86f4ae4548b1157f005a2703ff1458a",
+      "actual_asset_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true,
+      "upstream_notice": "retain existing supplied Apache-2.0 scope; no relicensing"
+    },
+    {
+      "upstream_path": "environment_files/lf52/271a04aa/lf52.py",
+      "sha256": "271a04aa4aafd1b035194b346c5333ec024d2e570d349edd413499c98e9e00d8",
+      "actual_asset_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true,
+      "upstream_notice": "retain existing supplied Apache-2.0 scope; no relicensing"
+    },
+    {
+      "upstream_path": "environment_files/lf52/271a04aa/metadata.json",
+      "sha256": "e7a2bcb0ef7a1731ff552fe2af901f6e761868eea4e6e2b90b212fbc6cc78b61",
+      "actual_asset_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true,
+      "upstream_notice": "retain existing supplied Apache-2.0 scope; no relicensing"
+    },
+    {
+      "upstream_path": "environment_files/lp85/305b61c3/lp85.py",
+      "sha256": "305b61c3d3a7463c9e723b53378c188529c0cc7d85029ba287f7f2b660fe8513",
+      "actual_asset_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true,
+      "upstream_notice": "retain existing supplied Apache-2.0 scope; no relicensing"
+    },
+    {
+      "upstream_path": "environment_files/lp85/305b61c3/metadata.json",
+      "sha256": "240e1e87eb19901262dcd7403dcb133c1bcc1268351eeb159520a82a52989a0e",
+      "actual_asset_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true,
+      "upstream_notice": "retain existing supplied Apache-2.0 scope; no relicensing"
+    },
+    {
+      "upstream_path": "environment_files/ls20/9607627b/ls20.py",
+      "sha256": "9607627b3d85bdb21ff28b40fefaa6a873691175981c6351b7e5a6637416f9d5",
+      "actual_asset_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true,
+      "upstream_notice": "retain existing supplied Apache-2.0 scope; no relicensing"
+    },
+    {
+      "upstream_path": "environment_files/ls20/9607627b/metadata.json",
+      "sha256": "181e2f8a540962461a1c799160bdd11963d7276d6c42a368324dd84f3573803f",
+      "actual_asset_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true,
+      "upstream_notice": "retain existing supplied Apache-2.0 scope; no relicensing"
+    },
+    {
+      "upstream_path": "environment_files/m0r0/492f87ba/m0r0.py",
+      "sha256": "492f87bab9b8cb3a9414becb7e9cd5a35be2de4b176596dbdec12aa88ed8ab51",
+      "actual_asset_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true,
+      "upstream_notice": "retain existing supplied Apache-2.0 scope; no relicensing"
+    },
+    {
+      "upstream_path": "environment_files/m0r0/492f87ba/metadata.json",
+      "sha256": "e51621b22f04fff37f6899c9d855adcd09a08ed8a3c663a94c0d4ac4a81e4e59",
+      "actual_asset_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true,
+      "upstream_notice": "retain existing supplied Apache-2.0 scope; no relicensing"
+    },
+    {
+      "upstream_path": "environment_files/r11l/495a7899/metadata.json",
+      "sha256": "37a0ea9f76955b4177a550b6ac5cbd4e6a39907961f967ce4c2b006598161f93",
+      "actual_asset_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true,
+      "upstream_notice": "retain existing supplied Apache-2.0 scope; no relicensing"
+    },
+    {
+      "upstream_path": "environment_files/r11l/495a7899/r11l.py",
+      "sha256": "495a7899b016e043ad59e4a05a8ea9bbe81b8d2763df6f9dbef7fde5e2d6d33f",
+      "actual_asset_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true,
+      "upstream_notice": "retain existing supplied Apache-2.0 scope; no relicensing"
+    },
+    {
+      "upstream_path": "environment_files/re86/8af5384d/metadata.json",
+      "sha256": "10a8855e1e9f03d150f95749a1354b6159516e36726a76ee740add6c399b03e3",
+      "actual_asset_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true,
+      "upstream_notice": "retain existing supplied Apache-2.0 scope; no relicensing"
+    },
+    {
+      "upstream_path": "environment_files/re86/8af5384d/re86.py",
+      "sha256": "8af5384d7f9bfdd6867edeb30550c20ba12b7cc9d4126acb35e68440c3447f04",
+      "actual_asset_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true,
+      "upstream_notice": "retain existing supplied Apache-2.0 scope; no relicensing"
+    },
+    {
+      "upstream_path": "environment_files/s5i5/18d95033/metadata.json",
+      "sha256": "1b4f3bfa7472ae0d9071f83183ecdcde04fa041e1530d868964829b5f7ed4a68",
+      "actual_asset_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true,
+      "upstream_notice": "retain existing supplied Apache-2.0 scope; no relicensing"
+    },
+    {
+      "upstream_path": "environment_files/s5i5/18d95033/s5i5.py",
+      "sha256": "18d950333a006e984941ceaa16cdc4dc8dca8ca26cb82194198759089aac5965",
+      "actual_asset_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true,
+      "upstream_notice": "retain existing supplied Apache-2.0 scope; no relicensing"
+    },
+    {
+      "upstream_path": "environment_files/sb26/7fbdac44/metadata.json",
+      "sha256": "a131de610360392ae58d7c2bbf892557cb5ed2afdbea535cffb7c52077895c40",
+      "actual_asset_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true,
+      "upstream_notice": "retain existing supplied Apache-2.0 scope; no relicensing"
+    },
+    {
+      "upstream_path": "environment_files/sb26/7fbdac44/sb26.py",
+      "sha256": "7fbdac44f407cf63a682b4dc313769227f3a8a9d423287d096e24d72d00d9784",
+      "actual_asset_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true,
+      "upstream_notice": "retain existing supplied Apache-2.0 scope; no relicensing"
+    },
+    {
+      "upstream_path": "environment_files/sc25/635fd71a/metadata.json",
+      "sha256": "07fd2772925d73810fd3f3afb11a441e2f66f6ebe050dc684a2269111b056510",
+      "actual_asset_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true,
+      "upstream_notice": "retain existing supplied Apache-2.0 scope; no relicensing"
+    },
+    {
+      "upstream_path": "environment_files/sc25/635fd71a/sc25.py",
+      "sha256": "635fd71a8670ff1c9c93ed9d2ebaaf333aca4964266a0563d5337ff32eb4340e",
+      "actual_asset_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true,
+      "upstream_notice": "retain existing supplied Apache-2.0 scope; no relicensing"
+    },
+    {
+      "upstream_path": "environment_files/sk48/d8078629/metadata.json",
+      "sha256": "81b0cb7a0e2b1f6196209b9f06145617d10d3d56206692b27ce70b9e9d54e0be",
+      "actual_asset_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true,
+      "upstream_notice": "retain existing supplied Apache-2.0 scope; no relicensing"
+    },
+    {
+      "upstream_path": "environment_files/sk48/d8078629/sk48.py",
+      "sha256": "d8078629ec82e3f66d70423ad188969d36cecaecf0d96d8a4496210042573a80",
+      "actual_asset_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true,
+      "upstream_notice": "retain existing supplied Apache-2.0 scope; no relicensing"
+    },
+    {
+      "upstream_path": "environment_files/sp80/589a99af/metadata.json",
+      "sha256": "01cd99e417ab864aeef2e6b7629b17d002b4489075449e8f956f04a7146308e3",
+      "actual_asset_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true,
+      "upstream_notice": "retain existing supplied Apache-2.0 scope; no relicensing"
+    },
+    {
+      "upstream_path": "environment_files/sp80/589a99af/sp80.py",
+      "sha256": "589a99af30f07879d044c56c88a2e9882fe04e6f13e9f943f5195c81d3b85a1f",
+      "actual_asset_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true,
+      "upstream_notice": "retain existing supplied Apache-2.0 scope; no relicensing"
+    },
+    {
+      "upstream_path": "environment_files/su15/1944f8ab/metadata.json",
+      "sha256": "5465b9b5d13effcf1d63950ed5a29e17f80ca194645b582ad5a6e7ecd4c9bd87",
+      "actual_asset_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true,
+      "upstream_notice": "retain existing supplied Apache-2.0 scope; no relicensing"
+    },
+    {
+      "upstream_path": "environment_files/su15/1944f8ab/su15.py",
+      "sha256": "1944f8aba6f2f8860d991745ba768131f02d918bcd5465466e85fcb2726d115a",
+      "actual_asset_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true,
+      "upstream_notice": "retain existing supplied Apache-2.0 scope; no relicensing"
+    },
+    {
+      "upstream_path": "environment_files/tn36/ef4dde99/metadata.json",
+      "sha256": "95402f8561ed3316e46a145095e5be3a91970dbccae0c9cb0bb4a54833b0e71d",
+      "actual_asset_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true,
+      "upstream_notice": "retain existing supplied Apache-2.0 scope; no relicensing"
+    },
+    {
+      "upstream_path": "environment_files/tn36/ef4dde99/tn36.py",
+      "sha256": "ef4dde99174ca5d753809f6f193177d8e25762b5fa58c9919df8458d8b69ff23",
+      "actual_asset_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true,
+      "upstream_notice": "retain existing supplied Apache-2.0 scope; no relicensing"
+    },
+    {
+      "upstream_path": "environment_files/tr87/cd924810/metadata.json",
+      "sha256": "2b398c92a205f605847835aa7a435375249f089baa381689dd04885e3bc84801",
+      "actual_asset_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true,
+      "upstream_notice": "retain existing supplied Apache-2.0 scope; no relicensing"
+    },
+    {
+      "upstream_path": "environment_files/tr87/cd924810/tr87.py",
+      "sha256": "cd924810f136aab40570209ff54a0069dd2306608414d16012f92d4ce66e23fb",
+      "actual_asset_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true,
+      "upstream_notice": "retain existing supplied Apache-2.0 scope; no relicensing"
+    },
+    {
+      "upstream_path": "environment_files/tu93/0768757b/metadata.json",
+      "sha256": "708e263553d9eb6efbb8575689c5565ed99e62f47b0be4f3ced17bc9a0d8ee7c",
+      "actual_asset_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true,
+      "upstream_notice": "retain existing supplied Apache-2.0 scope; no relicensing"
+    },
+    {
+      "upstream_path": "environment_files/tu93/0768757b/tu93.py",
+      "sha256": "0768757bb4b39e5a6f8142e32e0f6546a619cee02707f1f52f806b7007f07e57",
+      "actual_asset_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true,
+      "upstream_notice": "retain existing supplied Apache-2.0 scope; no relicensing"
+    },
+    {
+      "upstream_path": "environment_files/vc33/5430563c/metadata.json",
+      "sha256": "7a474852608bf393c7a88fd7f42a0bfbf22496a9d0c4942406feaee5195f401e",
+      "actual_asset_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true,
+      "upstream_notice": "retain existing supplied Apache-2.0 scope; no relicensing"
+    },
+    {
+      "upstream_path": "environment_files/vc33/5430563c/vc33.py",
+      "sha256": "5430563c386ca51ff4c9a84b032579245a0613cb98c477c6eaeaa1086c80a2d5",
+      "actual_asset_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true,
+      "upstream_notice": "retain existing supplied Apache-2.0 scope; no relicensing"
+    },
+    {
+      "upstream_path": "environment_files/wa30/ee6fef47/metadata.json",
+      "sha256": "b6ae84e88913fb68f884615ef1f20e7638aaade6540ff6a8577b831d8df4b780",
+      "actual_asset_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true,
+      "upstream_notice": "retain existing supplied Apache-2.0 scope; no relicensing"
+    },
+    {
+      "upstream_path": "environment_files/wa30/ee6fef47/wa30.py",
+      "sha256": "ee6fef476d4db0d64ebe5d37ea9036d41bace2e26974f9b0b2516af0948e202a",
+      "actual_asset_bytes_included_in_release": false,
+      "excluded_from_any_new_grant": true,
+      "upstream_notice": "retain existing supplied Apache-2.0 scope; no relicensing"
+    }
+  ],
+  "other_exclusions": [
+    "SDK, engine and all third-party dependencies retain their original licenses",
+    "Public game assets retain Apache-2.0 and are not embedded in this gateway notebook",
+    "Separate toolkit test fixtures retain MIT and are not embedded in this gateway notebook",
+    "Frozen evidence, credentials, client material and unrelated source are outside the release proposal",
+    "Historical local review files, test receipts, browser screenshots and canonical internal coordination records are not proposed public release content.",
+    "Cover-generation source and tests are outside this minimal release scope unless separately inventoried.",
+    "Installed CPython, pip and the Kaggle platform are upstream software/services and are not relicensed."
+  ],
+  "counts": {
+    "third_party_wheels_individually_listed": 31,
+    "public_game_asset_files_individually_listed": 51
+  }
+}

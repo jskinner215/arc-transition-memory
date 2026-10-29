@@ -1,0 +1,204 @@
+{
+  "format": "ARC transition-memory release content manifest v2 with comparison protocol",
+  "repository": "https://github.com/jskinner215/arc-transition-memory",
+  "licensing_scope": "Confirmed first-party expression only, as governed by an accompanying LICENSE; upstream portions excluded.",
+  "intended_first_party_license": "MIT-0",
+  "intended_LICENSE_sha256": "374078fc126a219ef4d28abb4fcdaab370c62f411974b442ac52b20804718468",
+  "frozen_notebook_sha256": "29477833c97dd526d00f13f4eb9087ec315c0eaac36d7bb6f39e215929ca66cd",
+  "paper_body_sha256": "529f31ef152e00505d1d2ce8baad26180ecec0f03f6b08be6bb956b11ebb1746",
+  "paper_body_whitespace_word_count": 912,
+  "evaluation_reference": {
+    "kaggle_version": 2,
+    "script_version_id": 363475807,
+    "public_score_as_displayed": "0.21",
+    "no_private_final_or_comparative_result_asserted": true
+  },
+  "counts_before_optional_LICENSE": {
+    "software": 14,
+    "embedded_reproduction_metadata": 5,
+    "additional_comparison_metadata": 2,
+    "notebook": 1,
+    "paper_and_cover": 2,
+    "readme_notices_exclusions_manifest": 4,
+    "total": 28
+  },
+  "upstream_exclusions": {
+    "wheel_distributions": 31,
+    "public_game_asset_files": 51,
+    "actual_bytes_included": false
+  },
+  "files": [
+    {
+      "path": "EXCLUSIONS.json",
+      "bytes": 44494,
+      "sha256": "7d64f592f49063f7b399bdb1b29622e9cbf2276d413319f3369e962a9153288d",
+      "classification": "release metadata; exclusions only, not a licence grant"
+    },
+    {
+      "path": "notebooks/arc-memory-kaggle-v3.ipynb",
+      "bytes": 255434,
+      "sha256": "29477833c97dd526d00f13f4eb9087ec315c0eaac36d7bb6f39e215929ca66cd",
+      "classification": "frozen generated container; proposed scope is first-party portions only"
+    },
+    {
+      "path": "paper/paper-cover.png",
+      "bytes": 102359,
+      "sha256": "33b0de8bc33ad3255a2d1af79b9484cdf0156185cee050bcb403c223fe9e5035",
+      "classification": "conceptual methods cover; rights unconfirmed"
+    },
+    {
+      "path": "paper/paper.md",
+      "bytes": 6763,
+      "sha256": "529f31ef152e00505d1d2ce8baad26180ecec0f03f6b08be6bb956b11ebb1746",
+      "classification": "method paper body; exact native-entry body; no rights attestation"
+    },
+    {
+      "path": "src/bootstrap_runtime_v3.py",
+      "bytes": 3290,
+      "sha256": "8cf4f682261014b40887e8426ba22d8001afccb60929a3c42d4dacd710952293",
+      "classification": "proposed first-party wrapper/build source; rights and licence unconfirmed"
+    },
+    {
+      "path": "src/build_kaggle_notebook_v2.py",
+      "bytes": 4196,
+      "sha256": "55fa4c6b93edb01a3208da59312a7e047927a3f30ef5b46cc7595e11106dd7c2",
+      "classification": "proposed first-party wrapper/build source; rights and licence unconfirmed"
+    },
+    {
+      "path": "src/build_kaggle_notebook_v3.py",
+      "bytes": 3599,
+      "sha256": "13ff0b3941d7777a4ac97dcc3ad3d755c990906c4dabcab4870d43e8885d1965",
+      "classification": "proposed first-party wrapper/build source; rights and licence unconfirmed"
+    },
+    {
+      "path": "src/checkpoint-reference.json",
+      "bytes": 11155,
+      "sha256": "db07d870f03eb42c63b2b4a51823b8d254686d55051fdf6c426b89938fbbd826",
+      "classification": "reproduction/configuration metadata; first-party expression only; upstream identifiers retained"
+    },
+    {
+      "path": "src/gateway_memory.py",
+      "bytes": 16199,
+      "sha256": "d398a80d8e8fdd8be03fe7555332dd8b4d47fe94eb04bbc6ebdff6ec5b023d3e",
+      "classification": "proposed first-party runtime source; rights and licence unconfirmed"
+    },
+    {
+      "path": "src/gateway_runner.py",
+      "bytes": 12716,
+      "sha256": "cf0b52212461e63a16c4e34edbc3e1877684f419d3ef85703f2ef083938f92f6",
+      "classification": "proposed first-party runtime source; rights and licence unconfirmed"
+    },
+    {
+      "path": "src/kaggle_phase_gate_v2.py",
+      "bytes": 3493,
+      "sha256": "7654aff18837dc2ec3565fef637dffaf4742e6ba03b45d9cd89c771f4be83e89",
+      "classification": "proposed first-party wrapper/build source; rights and licence unconfirmed"
+    },
+    {
+      "path": "src/memory_offline.py",
+      "bytes": 8258,
+      "sha256": "353a50d0f5e0c7a90e1ffe045bc2400464d3f746c4fd83ef8e1c264ab5a19609",
+      "classification": "proposed first-party runtime source; rights and licence unconfirmed"
+    },
+    {
+      "path": "src/memory_runtime.py",
+      "bytes": 2517,
+      "sha256": "d36b6c11fc0a48f008b294978aaa8bee8370b2baaecad6656c01f39fb69e5d3a",
+      "classification": "proposed first-party runtime source; rights and licence unconfirmed"
+    },
+    {
+      "path": "src/policy.py",
+      "bytes": 3512,
+      "sha256": "88c1ef010dfb8a7ae2f50d9f7593b4c07821bea90e12fe73b34fe15a41754c72",
+      "classification": "proposed first-party runtime source; rights and licence unconfirmed"
+    },
+    {
+      "path": "src/reasoning_policy.py",
+      "bytes": 17713,
+      "sha256": "d2f10fff95a6403a6b6fc19a7690c8dcda24ea6a1c318f72a90276aa06043f55",
+      "classification": "proposed first-party runtime source; rights and licence unconfirmed"
+    },
+    {
+      "path": "src/requirements-linux.txt",
+      "bytes": 3001,
+      "sha256": "936ebfd276b4efa97c9512eaf99fe222e0dff0016dd3794f87d2298953704f09",
+      "classification": "reproduction/configuration metadata; first-party expression only; upstream identifiers retained"
+    },
+    {
+      "path": "src/run_matched_v2.py",
+      "bytes": 17111,
+      "sha256": "bf19f0ef3a8ab3fee09635417a55a2f7137b5e7b35c4d03af3af8ac89623cedf",
+      "classification": "proposed first-party runtime source; rights and licence unconfirmed"
+    },
+    {
+      "path": "src/run_offline.py",
+      "bytes": 9242,
+      "sha256": "d829ade37f67df3c07ef93078bfa5e9206dae434edb692d3324e00d3888177b6",
+      "classification": "proposed first-party runtime source; rights and licence unconfirmed"
+    },
+    {
+      "path": "src/runtime-lock.json",
+      "bytes": 1011,
+      "sha256": "b0bb32989c52bdb74980927b6a2f6cb965c7e4106e71fa5dead1151bb6917bbe",
+      "classification": "reproduction/configuration metadata; first-party expression only; upstream identifiers retained"
+    },
+    {
+      "path": "src/source-lock.json",
+      "bytes": 1338,
+      "sha256": "892d10e2dd2fb781f192055612e46a62e5cdbdeae464d7e9e22291697cbf8bbe",
+      "classification": "reproduction/configuration metadata; first-party expression only; upstream identifiers retained"
+    },
+    {
+      "path": "src/validate_memory_artifacts.py",
+      "bytes": 20995,
+      "sha256": "db2925b7abe91c1a9ec63be5ed3fa6d67df8e984f4790d86a0e32c6c984cc829",
+      "classification": "proposed first-party runtime source; rights and licence unconfirmed"
+    },
+    {
+      "path": "src/verify_memory_bundle.py",
+      "bytes": 3435,
+      "sha256": "64387fd4ef275a5efbfbaaaf1ef6d842ae553ad1aed0729b83469cded29634e7",
+      "classification": "proposed first-party runtime source; rights and licence unconfirmed"
+    },
+    {
+      "path": "src/wheel-lock.json",
+      "bytes": 4739,
+      "sha256": "a8ea2fe7c218356883f93d1e594973dfe8f3469199b77b01cd2f6a8f1eec0891",
+      "classification": "reproduction/configuration metadata; first-party expression only; upstream identifiers retained"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "bytes": 6752,
+      "sha256": "16939973aeae3753e30d0f43c996dacb44369ff4b019c9438d3a9e96e5cbfbf3",
+      "classification": "upstream scope and notice documentation; no new grant"
+    },
+    {
+      "path": "protocol/reasoning-protocol-v2.json",
+      "bytes": 6352,
+      "sha256": "f2cb667fb776be8f189596ebde0d649e08e58091624f8cb7eebe0802a6c542b9",
+      "classification": "first-party comparison protocol metadata; expression only; upstream facts and identifiers retained"
+    },
+    {
+      "path": "src/assets/public-assets-manifest.json",
+      "bytes": 9579,
+      "sha256": "b4d199379755a877ba493f2b82b3739df30c66094a6b715b03b928427461df70",
+      "classification": "first-party asset allowlist metadata; hashes and upstream facts retained; no game bytes"
+    },
+    {
+      "path": "README.md",
+      "bytes": 7705,
+      "sha256": "6fa39766e564402c433fd466349934670df1ff4b52a7ec7a6a81633f6cfe5b36",
+      "classification": "release and conditional comparison documentation; permissions only in an accompanying LICENSE"
+    }
+  ],
+  "manifest_self_hash_omitted_to_avoid_circularity": true,
+  "comparison_protocol": {
+    "path": "protocol/reasoning-protocol-v2.json",
+    "sha256": "f2cb667fb776be8f189596ebde0d649e08e58091624f8cb7eebe0802a6c542b9",
+    "asset_allowlist_path": "src/assets/public-assets-manifest.json",
+    "asset_allowlist_sha256": "b4d199379755a877ba493f2b82b3739df30c66094a6b715b03b928427461df70",
+    "requires_exact_python": "3.12.13",
+    "runtime_and_game_assets_supplied_separately": true,
+    "command_not_rerun_from_this_release": true
+  }
+}
