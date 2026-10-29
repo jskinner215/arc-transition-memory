@@ -1,0 +1,193 @@
+{
+  "seed": 0,
+  "policy": "transition_memory",
+  "one_seed_public_development_only": true,
+  "protocol_sha256": "f2cb667fb776be8f189596ebde0d649e08e58091624f8cb7eebe0802a6c542b9",
+  "sources_sha256": {
+    "policy.py": "88c1ef010dfb8a7ae2f50d9f7593b4c07821bea90e12fe73b34fe15a41754c72",
+    "run_offline.py": "d829ade37f67df3c07ef93078bfa5e9206dae434edb692d3324e00d3888177b6",
+    "reasoning_policy.py": "d2f10fff95a6403a6b6fc19a7690c8dcda24ea6a1c318f72a90276aa06043f55",
+    "run_matched_v2.py": "bf19f0ef3a8ab3fee09635417a55a2f7137b5e7b35c4d03af3af8ac89623cedf"
+  },
+  "asset_files_sha256": {
+    "ar25/0c556536/ar25.py": "0c556536ad902afddb600cdb2b766ac9fda243dcd07b7f3a0a0d6277339745bf",
+    "ar25/0c556536/metadata.json": "2c493063d34141b70207bd50d3318c586b9221a37024b2792153d4fd4671f706",
+    "bp35/0a0ad940/bp35.py": "0a0ad94090fe6923613bee92dd48df46b2a07877bdf0be618e385a92184b7d0d",
+    "bp35/0a0ad940/metadata.json": "0def96ba7fa7c7f6cf6228665cc6e355efe1d7e768102a8a6c7ce22f8e0da47b",
+    "cd82/fb555c5d/cd82.py": "fb555c5ddf0a3b742188646bb28d2f57cb98cf2d3263c594032b45ec8fce2a86",
+    "cd82/fb555c5d/metadata.json": "ccfe95990d5a9c5df2cfe134452abd3397d63ede9c22afe02584f3b2a5184c9f",
+    "cn04/2fe56bfb/cn04.py": "2fe56bfb27680358db7d1c8b80c43e8877d6cfc629945402dc7c8967b0152603",
+    "cn04/2fe56bfb/metadata.json": "4c50cb8b1e35290d0f99717f5450df794250b798747352d43c6c76f54d70cf82",
+    "dc22/fdcac232/dc22.py": "fdcac2320f6d4cfeaaddfbed5c12e533962817b99f700a2936edd2c296f3d169",
+    "dc22/fdcac232/metadata.json": "3d6c2410131409c056425ced8767a714e80a1734a5d74ce2a77970ec5ae2f4c6",
+    "ft09/0d8bbf25/ft09.py": "0d8bbf2573e8f9837c649a1ffda2e7bde3734d26c3cb0fc4bbfd772d7f87a6bf",
+    "ft09/0d8bbf25/metadata.json": "abfa2c74192ad7d6330f0981d3a1609e331ce29a00d9b1d14c584c02c13d326b",
+    "g50t/5849a774/g50t.py": "5849a7740de172289b99f39680e60d7657de203a11b7361e24181e2104eebed5",
+    "g50t/5849a774/metadata.json": "c3fb569bc681661d597fb5a6700abafb19f13503f235891ccfa96b7dec045177",
+    "ka59/38d34dbb/ka59.py": "38d34dbbf83b9a220903d11d3e5f4cdb73230c7376576669d7d66cc157f22144",
+    "ka59/38d34dbb/metadata.json": "fcbcc16b233a4692c88661e1f8d3e676c86f4ae4548b1157f005a2703ff1458a",
+    "lf52/271a04aa/lf52.py": "271a04aa4aafd1b035194b346c5333ec024d2e570d349edd413499c98e9e00d8",
+    "lf52/271a04aa/metadata.json": "e7a2bcb0ef7a1731ff552fe2af901f6e761868eea4e6e2b90b212fbc6cc78b61",
+    "LICENSE": "3ddf9be5c28fe27dad143a5dc76eea25222ad1dd68934a047064e56ed2fa40c5",
+    "lp85/305b61c3/lp85.py": "305b61c3d3a7463c9e723b53378c188529c0cc7d85029ba287f7f2b660fe8513",
+    "lp85/305b61c3/metadata.json": "240e1e87eb19901262dcd7403dcb133c1bcc1268351eeb159520a82a52989a0e",
+    "ls20/9607627b/ls20.py": "9607627b3d85bdb21ff28b40fefaa6a873691175981c6351b7e5a6637416f9d5",
+    "ls20/9607627b/metadata.json": "181e2f8a540962461a1c799160bdd11963d7276d6c42a368324dd84f3573803f",
+    "m0r0/492f87ba/m0r0.py": "492f87bab9b8cb3a9414becb7e9cd5a35be2de4b176596dbdec12aa88ed8ab51",
+    "m0r0/492f87ba/metadata.json": "e51621b22f04fff37f6899c9d855adcd09a08ed8a3c663a94c0d4ac4a81e4e59",
+    "r11l/495a7899/metadata.json": "37a0ea9f76955b4177a550b6ac5cbd4e6a39907961f967ce4c2b006598161f93",
+    "r11l/495a7899/r11l.py": "495a7899b016e043ad59e4a05a8ea9bbe81b8d2763df6f9dbef7fde5e2d6d33f",
+    "re86/8af5384d/metadata.json": "10a8855e1e9f03d150f95749a1354b6159516e36726a76ee740add6c399b03e3",
+    "re86/8af5384d/re86.py": "8af5384d7f9bfdd6867edeb30550c20ba12b7cc9d4126acb35e68440c3447f04",
+    "s5i5/18d95033/metadata.json": "1b4f3bfa7472ae0d9071f83183ecdcde04fa041e1530d868964829b5f7ed4a68",
+    "s5i5/18d95033/s5i5.py": "18d950333a006e984941ceaa16cdc4dc8dca8ca26cb82194198759089aac5965",
+    "sb26/7fbdac44/metadata.json": "a131de610360392ae58d7c2bbf892557cb5ed2afdbea535cffb7c52077895c40",
+    "sb26/7fbdac44/sb26.py": "7fbdac44f407cf63a682b4dc313769227f3a8a9d423287d096e24d72d00d9784",
+    "sc25/635fd71a/metadata.json": "07fd2772925d73810fd3f3afb11a441e2f66f6ebe050dc684a2269111b056510",
+    "sc25/635fd71a/sc25.py": "635fd71a8670ff1c9c93ed9d2ebaaf333aca4964266a0563d5337ff32eb4340e",
+    "sk48/d8078629/metadata.json": "81b0cb7a0e2b1f6196209b9f06145617d10d3d56206692b27ce70b9e9d54e0be",
+    "sk48/d8078629/sk48.py": "d8078629ec82e3f66d70423ad188969d36cecaecf0d96d8a4496210042573a80",
+    "sp80/589a99af/metadata.json": "01cd99e417ab864aeef2e6b7629b17d002b4489075449e8f956f04a7146308e3",
+    "sp80/589a99af/sp80.py": "589a99af30f07879d044c56c88a2e9882fe04e6f13e9f943f5195c81d3b85a1f",
+    "su15/1944f8ab/metadata.json": "5465b9b5d13effcf1d63950ed5a29e17f80ca194645b582ad5a6e7ecd4c9bd87",
+    "su15/1944f8ab/su15.py": "1944f8aba6f2f8860d991745ba768131f02d918bcd5465466e85fcb2726d115a",
+    "tn36/ef4dde99/metadata.json": "95402f8561ed3316e46a145095e5be3a91970dbccae0c9cb0bb4a54833b0e71d",
+    "tn36/ef4dde99/tn36.py": "ef4dde99174ca5d753809f6f193177d8e25762b5fa58c9919df8458d8b69ff23",
+    "tr87/cd924810/metadata.json": "2b398c92a205f605847835aa7a435375249f089baa381689dd04885e3bc84801",
+    "tr87/cd924810/tr87.py": "cd924810f136aab40570209ff54a0069dd2306608414d16012f92d4ce66e23fb",
+    "tu93/0768757b/metadata.json": "708e263553d9eb6efbb8575689c5565ed99e62f47b0be4f3ced17bc9a0d8ee7c",
+    "tu93/0768757b/tu93.py": "0768757bb4b39e5a6f8142e32e0f6546a619cee02707f1f52f806b7007f07e57",
+    "vc33/5430563c/metadata.json": "7a474852608bf393c7a88fd7f42a0bfbf22496a9d0c4942406feaee5195f401e",
+    "vc33/5430563c/vc33.py": "5430563c386ca51ff4c9a84b032579245a0613cb98c477c6eaeaa1086c80a2d5",
+    "wa30/ee6fef47/metadata.json": "b6ae84e88913fb68f884615ef1f20e7638aaade6540ff6a8577b831d8df4b780",
+    "wa30/ee6fef47/wa30.py": "ee6fef476d4db0d64ebe5d37ea9036d41bace2e26974f9b0b2516af0948e202a"
+  },
+  "games": {
+    "ar25": {
+      "game_id": "ar25-0c556536",
+      "baseline_compatible_transcript_sha256": "084afa6190a71508fc2966b7c0095f986f7a5813e32ab36048d31553baa8954d",
+      "local_toolkit_score_percent": 0.0
+    },
+    "bp35": {
+      "game_id": "bp35-0a0ad940",
+      "baseline_compatible_transcript_sha256": "c3cb108c5c46d699364d09293ab27d5f4179f22cfc4d31a8d92352b76fafaf6d",
+      "local_toolkit_score_percent": 0.0
+    },
+    "cd82": {
+      "game_id": "cd82-fb555c5d",
+      "baseline_compatible_transcript_sha256": "bcd4404cf55b4101fdb1cfdc2a67caa7c0c9c85853700e92a1bbf496f6c55896",
+      "local_toolkit_score_percent": 0.7674762589782037
+    },
+    "cn04": {
+      "game_id": "cn04-2fe56bfb",
+      "baseline_compatible_transcript_sha256": "f5dcabccf93c11c495f2ce52d7801116df85dd10455c52fd035d28aba20a2ca8",
+      "local_toolkit_score_percent": 0.0
+    },
+    "dc22": {
+      "game_id": "dc22-fdcac232",
+      "baseline_compatible_transcript_sha256": "cf295c3425818ec6773e7d3239d615b343d6754c2f1c64d12bed82eaed6b883a",
+      "local_toolkit_score_percent": 0.0
+    },
+    "ft09": {
+      "game_id": "ft09-0d8bbf25",
+      "baseline_compatible_transcript_sha256": "757b027558837218e9edaeb5721929b88d02d59f782d62e9c798bb8905c6a8a7",
+      "local_toolkit_score_percent": 0.0
+    },
+    "g50t": {
+      "game_id": "g50t-5849a774",
+      "baseline_compatible_transcript_sha256": "0b28cc3247ac8cddba754989dbbf9efe6593a1256340137229fd34a0efafa752",
+      "local_toolkit_score_percent": 0.0
+    },
+    "ka59": {
+      "game_id": "ka59-38d34dbb",
+      "baseline_compatible_transcript_sha256": "97f19d91a54f37df388fa4186b0501c8c4c03badfccc8ccdbd6d7aa326aee33b",
+      "local_toolkit_score_percent": 0.0
+    },
+    "lf52": {
+      "game_id": "lf52-271a04aa",
+      "baseline_compatible_transcript_sha256": "2bbc460b147b19d8400e19b51a7c981120ab0ea60ae195be21170ed3fa07ff2f",
+      "local_toolkit_score_percent": 0.0
+    },
+    "lp85": {
+      "game_id": "lp85-305b61c3",
+      "baseline_compatible_transcript_sha256": "cc3e0a1f4ba6759ac5d2f8b22b69808d084018ffea6719af91044b7cbe661ca0",
+      "local_toolkit_score_percent": 0.00592788411048099
+    },
+    "ls20": {
+      "game_id": "ls20-9607627b",
+      "baseline_compatible_transcript_sha256": "adf17b0586cafdeaedff26be55986bb2d65f8657655d04dcbc855bd92f413b90",
+      "local_toolkit_score_percent": 0.0
+    },
+    "m0r0": {
+      "game_id": "m0r0-492f87ba",
+      "baseline_compatible_transcript_sha256": "64e1d9368aea2d0ff21223fee6336ba96af3e012b59bdad64c18fa52d763a3d8",
+      "local_toolkit_score_percent": 0.0
+    },
+    "r11l": {
+      "game_id": "r11l-495a7899",
+      "baseline_compatible_transcript_sha256": "b13de6b09b95fde460d933691202f455c5fe5a7917a4ddde06209b9139304b99",
+      "local_toolkit_score_percent": 1.4404761904761907
+    },
+    "re86": {
+      "game_id": "re86-8af5384d",
+      "baseline_compatible_transcript_sha256": "62bfd4e939608782d582faaca317bcbefd05fe3dd9f003d90ce545492b6e8d82",
+      "local_toolkit_score_percent": 0.0
+    },
+    "s5i5": {
+      "game_id": "s5i5-18d95033",
+      "baseline_compatible_transcript_sha256": "5fa1a5f2980f10d470df3cab1bef55eac56cf3b27b08b5c71c11d44b903fb0f2",
+      "local_toolkit_score_percent": 0.0
+    },
+    "sb26": {
+      "game_id": "sb26-7fbdac44",
+      "baseline_compatible_transcript_sha256": "489704ccc5abecc08bae6517eb56dde735cdcfb6a22bebc026003d308908874f",
+      "local_toolkit_score_percent": 0.0
+    },
+    "sc25": {
+      "game_id": "sc25-635fd71a",
+      "baseline_compatible_transcript_sha256": "0c0fb26e41a6dcf0800ec3bf203da328938b62f5a9c93e92356919fb40bf7aa1",
+      "local_toolkit_score_percent": 0.0
+    },
+    "sk48": {
+      "game_id": "sk48-d8078629",
+      "baseline_compatible_transcript_sha256": "d59a7749250be25d1310cccf5669747149d82d57fbfa71574c489768ee49af03",
+      "local_toolkit_score_percent": 0.0
+    },
+    "sp80": {
+      "game_id": "sp80-589a99af",
+      "baseline_compatible_transcript_sha256": "94e552aad716ac6497f2fd78a51e441f7768ae035d9c53420e2355fa19566eaf",
+      "local_toolkit_score_percent": 4.761904761904762
+    },
+    "su15": {
+      "game_id": "su15-1944f8ab",
+      "baseline_compatible_transcript_sha256": "675b05fbc4a40e3c305c08c21b47eaee04064d3c2a26535402ddc42fe3e7a12a",
+      "local_toolkit_score_percent": 0.0
+    },
+    "tn36": {
+      "game_id": "tn36-ef4dde99",
+      "baseline_compatible_transcript_sha256": "572ced57014fa6ecc9532cb822e78c0d688c96409ee54edd550fa33f2210f7c9",
+      "local_toolkit_score_percent": 0.0
+    },
+    "tr87": {
+      "game_id": "tr87-cd924810",
+      "baseline_compatible_transcript_sha256": "a75438e70d184ad1f0eca1004cfe6685648876b1e69afb20d8472df6a81e92b1",
+      "local_toolkit_score_percent": 0.0
+    },
+    "tu93": {
+      "game_id": "tu93-0768757b",
+      "baseline_compatible_transcript_sha256": "402f1985dd8cb77fa91c58f02febe10cd993ebcc70c448bbb5cced9b215b7090",
+      "local_toolkit_score_percent": 0.0
+    },
+    "vc33": {
+      "game_id": "vc33-5430563c",
+      "baseline_compatible_transcript_sha256": "b964c2078ab828e17390f6e097d3da7e295ffcc522a59a56f0fd28f1a0681e6a",
+      "local_toolkit_score_percent": 0.001540913453495232
+    },
+    "wa30": {
+      "game_id": "wa30-ee6fef47",
+      "baseline_compatible_transcript_sha256": "0dce20b390a3a4ad36b4397fcfb7217c53d5c3f610f0e09a4e1f061d756e2828",
+      "local_toolkit_score_percent": 0.0
+    }
+  },
+  "planning_ablation": "nine selected actions; all25game scores tied memory; no added score benefit"
+}
