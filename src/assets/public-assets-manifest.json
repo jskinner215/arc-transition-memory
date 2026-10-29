@@ -1,0 +1,314 @@
+{
+  "schema_version": 1,
+  "asset_kind": "public_game_local_only",
+  "source_url": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-3/data",
+  "license_spdx": "Apache-2.0",
+  "files": [
+    {
+      "path": "ar25/0c556536/ar25.py",
+      "sha256": "0c556536ad902afddb600cdb2b766ac9fda243dcd07b7f3a0a0d6277339745bf"
+    },
+    {
+      "path": "ar25/0c556536/metadata.json",
+      "sha256": "2c493063d34141b70207bd50d3318c586b9221a37024b2792153d4fd4671f706"
+    },
+    {
+      "path": "bp35/0a0ad940/bp35.py",
+      "sha256": "0a0ad94090fe6923613bee92dd48df46b2a07877bdf0be618e385a92184b7d0d"
+    },
+    {
+      "path": "bp35/0a0ad940/metadata.json",
+      "sha256": "0def96ba7fa7c7f6cf6228665cc6e355efe1d7e768102a8a6c7ce22f8e0da47b"
+    },
+    {
+      "path": "cd82/fb555c5d/cd82.py",
+      "sha256": "fb555c5ddf0a3b742188646bb28d2f57cb98cf2d3263c594032b45ec8fce2a86"
+    },
+    {
+      "path": "cd82/fb555c5d/metadata.json",
+      "sha256": "ccfe95990d5a9c5df2cfe134452abd3397d63ede9c22afe02584f3b2a5184c9f"
+    },
+    {
+      "path": "cn04/2fe56bfb/cn04.py",
+      "sha256": "2fe56bfb27680358db7d1c8b80c43e8877d6cfc629945402dc7c8967b0152603"
+    },
+    {
+      "path": "cn04/2fe56bfb/metadata.json",
+      "sha256": "4c50cb8b1e35290d0f99717f5450df794250b798747352d43c6c76f54d70cf82"
+    },
+    {
+      "path": "dc22/fdcac232/dc22.py",
+      "sha256": "fdcac2320f6d4cfeaaddfbed5c12e533962817b99f700a2936edd2c296f3d169"
+    },
+    {
+      "path": "dc22/fdcac232/metadata.json",
+      "sha256": "3d6c2410131409c056425ced8767a714e80a1734a5d74ce2a77970ec5ae2f4c6"
+    },
+    {
+      "path": "ft09/0d8bbf25/ft09.py",
+      "sha256": "0d8bbf2573e8f9837c649a1ffda2e7bde3734d26c3cb0fc4bbfd772d7f87a6bf"
+    },
+    {
+      "path": "ft09/0d8bbf25/metadata.json",
+      "sha256": "abfa2c74192ad7d6330f0981d3a1609e331ce29a00d9b1d14c584c02c13d326b"
+    },
+    {
+      "path": "g50t/5849a774/g50t.py",
+      "sha256": "5849a7740de172289b99f39680e60d7657de203a11b7361e24181e2104eebed5"
+    },
+    {
+      "path": "g50t/5849a774/metadata.json",
+      "sha256": "c3fb569bc681661d597fb5a6700abafb19f13503f235891ccfa96b7dec045177"
+    },
+    {
+      "path": "ka59/38d34dbb/ka59.py",
+      "sha256": "38d34dbbf83b9a220903d11d3e5f4cdb73230c7376576669d7d66cc157f22144"
+    },
+    {
+      "path": "ka59/38d34dbb/metadata.json",
+      "sha256": "fcbcc16b233a4692c88661e1f8d3e676c86f4ae4548b1157f005a2703ff1458a"
+    },
+    {
+      "path": "lf52/271a04aa/lf52.py",
+      "sha256": "271a04aa4aafd1b035194b346c5333ec024d2e570d349edd413499c98e9e00d8"
+    },
+    {
+      "path": "lf52/271a04aa/metadata.json",
+      "sha256": "e7a2bcb0ef7a1731ff552fe2af901f6e761868eea4e6e2b90b212fbc6cc78b61"
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "3ddf9be5c28fe27dad143a5dc76eea25222ad1dd68934a047064e56ed2fa40c5"
+    },
+    {
+      "path": "lp85/305b61c3/lp85.py",
+      "sha256": "305b61c3d3a7463c9e723b53378c188529c0cc7d85029ba287f7f2b660fe8513"
+    },
+    {
+      "path": "lp85/305b61c3/metadata.json",
+      "sha256": "240e1e87eb19901262dcd7403dcb133c1bcc1268351eeb159520a82a52989a0e"
+    },
+    {
+      "path": "ls20/9607627b/ls20.py",
+      "sha256": "9607627b3d85bdb21ff28b40fefaa6a873691175981c6351b7e5a6637416f9d5"
+    },
+    {
+      "path": "ls20/9607627b/metadata.json",
+      "sha256": "181e2f8a540962461a1c799160bdd11963d7276d6c42a368324dd84f3573803f"
+    },
+    {
+      "path": "m0r0/492f87ba/m0r0.py",
+      "sha256": "492f87bab9b8cb3a9414becb7e9cd5a35be2de4b176596dbdec12aa88ed8ab51"
+    },
+    {
+      "path": "m0r0/492f87ba/metadata.json",
+      "sha256": "e51621b22f04fff37f6899c9d855adcd09a08ed8a3c663a94c0d4ac4a81e4e59"
+    },
+    {
+      "path": "r11l/495a7899/metadata.json",
+      "sha256": "37a0ea9f76955b4177a550b6ac5cbd4e6a39907961f967ce4c2b006598161f93"
+    },
+    {
+      "path": "r11l/495a7899/r11l.py",
+      "sha256": "495a7899b016e043ad59e4a05a8ea9bbe81b8d2763df6f9dbef7fde5e2d6d33f"
+    },
+    {
+      "path": "re86/8af5384d/metadata.json",
+      "sha256": "10a8855e1e9f03d150f95749a1354b6159516e36726a76ee740add6c399b03e3"
+    },
+    {
+      "path": "re86/8af5384d/re86.py",
+      "sha256": "8af5384d7f9bfdd6867edeb30550c20ba12b7cc9d4126acb35e68440c3447f04"
+    },
+    {
+      "path": "s5i5/18d95033/metadata.json",
+      "sha256": "1b4f3bfa7472ae0d9071f83183ecdcde04fa041e1530d868964829b5f7ed4a68"
+    },
+    {
+      "path": "s5i5/18d95033/s5i5.py",
+      "sha256": "18d950333a006e984941ceaa16cdc4dc8dca8ca26cb82194198759089aac5965"
+    },
+    {
+      "path": "sb26/7fbdac44/metadata.json",
+      "sha256": "a131de610360392ae58d7c2bbf892557cb5ed2afdbea535cffb7c52077895c40"
+    },
+    {
+      "path": "sb26/7fbdac44/sb26.py",
+      "sha256": "7fbdac44f407cf63a682b4dc313769227f3a8a9d423287d096e24d72d00d9784"
+    },
+    {
+      "path": "sc25/635fd71a/metadata.json",
+      "sha256": "07fd2772925d73810fd3f3afb11a441e2f66f6ebe050dc684a2269111b056510"
+    },
+    {
+      "path": "sc25/635fd71a/sc25.py",
+      "sha256": "635fd71a8670ff1c9c93ed9d2ebaaf333aca4964266a0563d5337ff32eb4340e"
+    },
+    {
+      "path": "sk48/d8078629/metadata.json",
+      "sha256": "81b0cb7a0e2b1f6196209b9f06145617d10d3d56206692b27ce70b9e9d54e0be"
+    },
+    {
+      "path": "sk48/d8078629/sk48.py",
+      "sha256": "d8078629ec82e3f66d70423ad188969d36cecaecf0d96d8a4496210042573a80"
+    },
+    {
+      "path": "sp80/589a99af/metadata.json",
+      "sha256": "01cd99e417ab864aeef2e6b7629b17d002b4489075449e8f956f04a7146308e3"
+    },
+    {
+      "path": "sp80/589a99af/sp80.py",
+      "sha256": "589a99af30f07879d044c56c88a2e9882fe04e6f13e9f943f5195c81d3b85a1f"
+    },
+    {
+      "path": "su15/1944f8ab/metadata.json",
+      "sha256": "5465b9b5d13effcf1d63950ed5a29e17f80ca194645b582ad5a6e7ecd4c9bd87"
+    },
+    {
+      "path": "su15/1944f8ab/su15.py",
+      "sha256": "1944f8aba6f2f8860d991745ba768131f02d918bcd5465466e85fcb2726d115a"
+    },
+    {
+      "path": "tn36/ef4dde99/metadata.json",
+      "sha256": "95402f8561ed3316e46a145095e5be3a91970dbccae0c9cb0bb4a54833b0e71d"
+    },
+    {
+      "path": "tn36/ef4dde99/tn36.py",
+      "sha256": "ef4dde99174ca5d753809f6f193177d8e25762b5fa58c9919df8458d8b69ff23"
+    },
+    {
+      "path": "tr87/cd924810/metadata.json",
+      "sha256": "2b398c92a205f605847835aa7a435375249f089baa381689dd04885e3bc84801"
+    },
+    {
+      "path": "tr87/cd924810/tr87.py",
+      "sha256": "cd924810f136aab40570209ff54a0069dd2306608414d16012f92d4ce66e23fb"
+    },
+    {
+      "path": "tu93/0768757b/metadata.json",
+      "sha256": "708e263553d9eb6efbb8575689c5565ed99e62f47b0be4f3ced17bc9a0d8ee7c"
+    },
+    {
+      "path": "tu93/0768757b/tu93.py",
+      "sha256": "0768757bb4b39e5a6f8142e32e0f6546a619cee02707f1f52f806b7007f07e57"
+    },
+    {
+      "path": "vc33/5430563c/metadata.json",
+      "sha256": "7a474852608bf393c7a88fd7f42a0bfbf22496a9d0c4942406feaee5195f401e"
+    },
+    {
+      "path": "vc33/5430563c/vc33.py",
+      "sha256": "5430563c386ca51ff4c9a84b032579245a0613cb98c477c6eaeaa1086c80a2d5"
+    },
+    {
+      "path": "wa30/ee6fef47/metadata.json",
+      "sha256": "b6ae84e88913fb68f884615ef1f20e7638aaade6540ff6a8577b831d8df4b780"
+    },
+    {
+      "path": "wa30/ee6fef47/wa30.py",
+      "sha256": "ee6fef476d4db0d64ebe5d37ea9036d41bace2e26974f9b0b2516af0948e202a"
+    }
+  ],
+  "games": [
+    {
+      "id": "ar25",
+      "metadata": "ar25/0c556536/metadata.json"
+    },
+    {
+      "id": "bp35",
+      "metadata": "bp35/0a0ad940/metadata.json"
+    },
+    {
+      "id": "cd82",
+      "metadata": "cd82/fb555c5d/metadata.json"
+    },
+    {
+      "id": "cn04",
+      "metadata": "cn04/2fe56bfb/metadata.json"
+    },
+    {
+      "id": "dc22",
+      "metadata": "dc22/fdcac232/metadata.json"
+    },
+    {
+      "id": "ft09",
+      "metadata": "ft09/0d8bbf25/metadata.json"
+    },
+    {
+      "id": "g50t",
+      "metadata": "g50t/5849a774/metadata.json"
+    },
+    {
+      "id": "ka59",
+      "metadata": "ka59/38d34dbb/metadata.json"
+    },
+    {
+      "id": "lf52",
+      "metadata": "lf52/271a04aa/metadata.json"
+    },
+    {
+      "id": "lp85",
+      "metadata": "lp85/305b61c3/metadata.json"
+    },
+    {
+      "id": "ls20",
+      "metadata": "ls20/9607627b/metadata.json"
+    },
+    {
+      "id": "m0r0",
+      "metadata": "m0r0/492f87ba/metadata.json"
+    },
+    {
+      "id": "r11l",
+      "metadata": "r11l/495a7899/metadata.json"
+    },
+    {
+      "id": "re86",
+      "metadata": "re86/8af5384d/metadata.json"
+    },
+    {
+      "id": "s5i5",
+      "metadata": "s5i5/18d95033/metadata.json"
+    },
+    {
+      "id": "sb26",
+      "metadata": "sb26/7fbdac44/metadata.json"
+    },
+    {
+      "id": "sc25",
+      "metadata": "sc25/635fd71a/metadata.json"
+    },
+    {
+      "id": "sk48",
+      "metadata": "sk48/d8078629/metadata.json"
+    },
+    {
+      "id": "sp80",
+      "metadata": "sp80/589a99af/metadata.json"
+    },
+    {
+      "id": "su15",
+      "metadata": "su15/1944f8ab/metadata.json"
+    },
+    {
+      "id": "tn36",
+      "metadata": "tn36/ef4dde99/metadata.json"
+    },
+    {
+      "id": "tr87",
+      "metadata": "tr87/cd924810/metadata.json"
+    },
+    {
+      "id": "tu93",
+      "metadata": "tu93/0768757b/metadata.json"
+    },
+    {
+      "id": "vc33",
+      "metadata": "vc33/5430563c/metadata.json"
+    },
+    {
+      "id": "wa30",
+      "metadata": "wa30/ee6fef47/metadata.json"
+    }
+  ]
+}
